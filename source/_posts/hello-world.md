@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 最最通俗移动的Promise实现原理来了
 ---
 声明：本篇文章不是讲Promise如何使用的。如果还不清楚，请移步：[http://es6.ruanyifeng.com/#docs/promise](http://es6.ruanyifeng.com/#docs/promise )  ，阮一峰老师讲的通俗易懂！
 
