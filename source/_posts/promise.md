@@ -1,9 +1,17 @@
 ---
-title: 最最通俗移动的Promise实现原理来了
+title: Promise 实现原理
+date: 2018-06-05 01:39:50
+tags: 
+- Promise
+- Javascript
+categories: technology
 ---
+
 声明：本篇文章不是讲Promise如何使用的。如果还不清楚，请移步：[http://es6.ruanyifeng.com/#docs/promise](http://es6.ruanyifeng.com/#docs/promise )  ，阮一峰老师讲的通俗易懂！
 
 用了很久Promise，大家应该都很熟悉了吧！既然那么熟了，下面几个问题，了解一下？
+
+<!--more-->
 
 ```javascript
 Promise.resolve(1).then(2).then(Promise.resolve()).then(console.log)
