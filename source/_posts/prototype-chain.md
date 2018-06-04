@@ -5,9 +5,10 @@ tags:
 - 原型
 - 原型链
 - JavaScript
+categories: technology
 ---
 
-# 原型和原型链
+
 首先要搞明白几个概念：
 
 > 1. 函数（function）
