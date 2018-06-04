@@ -3,7 +3,7 @@ title: Promise 实现原理
 date: 2018-06-05 01:39:50
 tags: 
 - Promise
-- Javascript
+- JavaScript
 categories: technology
 ---
 
